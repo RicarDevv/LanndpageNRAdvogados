@@ -1,5 +1,7 @@
-@media screen {
-    
+@media screen and (max-Width: 900px){
+    section, aside (
+        width: 100%;
+    )
 }
 * 
 {
